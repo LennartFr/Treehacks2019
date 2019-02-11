@@ -8,6 +8,11 @@ IBM Bockchain Usecases: https://www.ibm.com/blockchain/use-cases/
 
 Go through the IBM Code Patterns for Blockchain. https://developer.ibm.com/patterns/category/blockchain/
 
+Download the Visual Studio Code and install the IBM Blockchain Plkatform in the Visual Studio Marketplace.
+
+## [Visual Studio Code](https://code.visualstudio.com)
+## [IBM Blockchain Platform in Viual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
+
 ## Demo: [The Blockchain Bean](https://www.ibm.com/thought-leadership/blockchainbean/)
 ## [Prerequisites](https://hyperledger-fabric.readthedocs.io/en/release-1.4/prereqs.html#prerequisites)
 ## Exercise 1: [Develop a Node.js smart contract and web app for Global Finance with Blockchain](https://developer.ibm.com/patterns/global-financing-use-case-for-blockchain/)

@@ -49,8 +49,6 @@ https://www.hyperledger.org/blog/2018/10/26/hyperledger-fabric-now-supports-ethe
 
 <hr size="6">
 
-# Get quickly up and running with these resources:
-
 ## Demo: [The Blockchain Bean Supply Chain](https://www.ibm.com/thought-leadership/blockchainbean/)
 ## [Prerequisites](https://hyperledger-fabric.readthedocs.io/en/release-1.4/prereqs.html#prerequisites)
 ## Exercise 1: [Develop a Node.js smart contract and web app for Global Finance with Blockchain](https://developer.ibm.com/patterns/global-financing-use-case-for-blockchain/)

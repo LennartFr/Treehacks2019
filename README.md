@@ -40,12 +40,14 @@ module.exports = MyContract;
 ~~~~
 https://www.hyperledger.org/blog/2018/10/26/hyperledger-fabric-now-supports-ethereum
 
+<hr size="6">
+
 ### Hyperledger Fabric now supports Ethereum Virtual Machine (EVM) bytecode smart contracts. 
 ### Contracts can now be written in languages such as Solidity or Vyper. Along with introducing 
 ### a new smart contract runtime, Fabric also has a corresponding web3 provider which can be used 
 ### to develop decentralized applications (DApps) using web3.js.
 
-
+<hr size="6">
 
 ## Demo: [The Blockchain Bean Supply Chain](https://www.ibm.com/thought-leadership/blockchainbean/)
 ## [Prerequisites](https://hyperledger-fabric.readthedocs.io/en/release-1.4/prereqs.html#prerequisites)

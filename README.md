@@ -10,7 +10,7 @@
 
 ## [IBM Bockchain Use cases:](https://www.ibm.com/blockchain/use-cases/)
 
-## [ALL IBM Code Patterns for Blockchain] (https://developer.ibm.com/patterns/category/blockchain)
+## [ALL IBM Code Patterns for Blockchain](https://developer.ibm.com/patterns/category/blockchain)
 
 
 ## [Visual Studio Code](https://code.visualstudio.com)

@@ -18,7 +18,7 @@ Go through the IBM Code Patterns for Blockchain. https://developer.ibm.com/patte
 Download the Visual Studio Code and install the IBM Blockchain Plkatform in the Visual Studio Marketplace.
 
 ## [Visual Studio Code](https://code.visualstudio.com)
-## [IBM Blockchain Platform in Viual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
+## [IBM Blockchain Platform in Virtual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
 
 ## Demo: [The Blockchain Bean](https://www.ibm.com/thought-leadership/blockchainbean/)
 ## [Prerequisites](https://hyperledger-fabric.readthedocs.io/en/release-1.4/prereqs.html#prerequisites)

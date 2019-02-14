@@ -8,7 +8,7 @@
 
 ## <a href="https://developer.ibm.com/code-and-response/technologies/blockchain">Code and Response Blockchain resources</a>
 
-## IBM Bockchain Usecases: https://www.ibm.com/blockchain/use-cases/
+## IBM Bockchain Use cases: https://www.ibm.com/blockchain/use-cases/
 
 ## Go through the IBM Code Patterns for Blockchain. https://developer.ibm.com/patterns/category/blockchain/
 

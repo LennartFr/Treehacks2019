@@ -1,4 +1,4 @@
-# IBM Hyperledger and IBM Blockchain at TreeHacks 2019
+# Hyperledger Fabric and IBM Blockchain at TreeHacks 2019
 
 # URL: https://ibm.biz/TreeHacks2019
 

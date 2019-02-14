@@ -8,14 +8,15 @@
 
 ## <a href="https://developer.ibm.com/code-and-response/technologies/blockchain">Code and Response Blockchain resources</a>
 
-## IBM Bockchain Use cases: https://www.ibm.com/blockchain/use-cases/
+## [IBM Bockchain Use cases:](https://www.ibm.com/blockchain/use-cases/)
 
-## Go through the IBM Code Patterns for Blockchain. https://developer.ibm.com/patterns/category/blockchain/
+## [ALL IBM Code Patterns for Blockchain] (https://developer.ibm.com/patterns/category/blockchain)
 
-Download the Visual Studio Code and install the IBM Blockchain Plkatform in the Visual Studio Marketplace.
 
 ## [Visual Studio Code](https://code.visualstudio.com)
 ## [IBM Blockchain Platform in Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
+
+# Step by step sample apps to quickly get up and running 
 
 ## Demo: [The Blockchain Bean](https://www.ibm.com/thought-leadership/blockchainbean/)
 ## [Prerequisites](https://hyperledger-fabric.readthedocs.io/en/release-1.4/prereqs.html#prerequisites)

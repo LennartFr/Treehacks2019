@@ -18,6 +18,27 @@
 
 # Step by step sample apps to quickly get up and running 
 
+Smart Contract in NodeJS.
+
+~~~~
+'use strict';
+const { Contract } = require('fabric-contract-api');class MyContract extends Contract {
+//update ledger with a greeting to show that the function was called
+async instantiate(ctx) {
+let greeting = { text: 'Instantiate was called!' };
+await ctx.stub.putState('GREETING', Buffer.from(JSON.stringify(greeting)));
+}//take argument and create a greeting object to be updated to the ledger
+async transaction1(ctx, arg1) {
+console.info('transaction1', arg1);
+let greeting = { text: arg1 };
+await ctx.stub.putState('GREETING', Buffer.from(JSON.stringify(greeting)));
+return JSON.stringify(greeting);
+}}   module.exports = MyContract;
+~~~~
+
+
+
+
 ## Demo: [The Blockchain Bean Supply Chain](https://www.ibm.com/thought-leadership/blockchainbean/)
 ## [Prerequisites](https://hyperledger-fabric.readthedocs.io/en/release-1.4/prereqs.html#prerequisites)
 ## Exercise 1: [Develop a Node.js smart contract and web app for Global Finance with Blockchain](https://developer.ibm.com/patterns/global-financing-use-case-for-blockchain/)

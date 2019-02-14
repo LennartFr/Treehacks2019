@@ -6,6 +6,11 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
+<a href="https://developer.ibm.com/code-and-response/">Code and Response</a>
+
+<a href="https://developer.ibm.com/code-and-response/technologies/blockchain">Code and Response Blockchain resources</a>
+
+
 IBM Bockchain Usecases: https://www.ibm.com/blockchain/use-cases/
 
 Go through the IBM Code Patterns for Blockchain. https://developer.ibm.com/patterns/category/blockchain/

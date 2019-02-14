@@ -18,11 +18,11 @@
 
 # Step by step sample apps to quickly get up and running 
 
-Smart Contract in NodeJS.
+## Smart Contract in NodeJS.
 
 ~~~~
  'use strict';
- const { Contract } = require('fabric-contract-api');class MyContract extends Contract {
+ const { Contract } = require('fabric-contract-api');class MyContract extends Contract {
  //update ledger with a greeting to show that the function was called
  async instantiate(ctx) {
  let greeting = { text: 'Instantiate was called!' };
@@ -38,7 +38,12 @@ Smart Contract in NodeJS.
 }   
 module.exports = MyContract;
 ~~~~
+https://www.hyperledger.org/blog/2018/10/26/hyperledger-fabric-now-supports-ethereum
 
+### Hyperledger Fabric now supports Ethereum Virtual Machine (EVM) bytecode smart contracts. 
+### Contracts can now be written in languages such as Solidity or Vyper. Along with introducing 
+### a new smart contract runtime, Fabric also has a corresponding web3 provider which can be used 
+### to develop decentralized applications (DApps) using web3.js.
 
 
 

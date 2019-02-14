@@ -22,7 +22,7 @@
 
 ~~~~
  'use strict';
- const { Contract } = require('fabric-contract-api');class MyContract extends Contract {
+ const { Contract } = require('fabric-contract-api'); class MyContract extends Contract {
  //update ledger with a greeting to show that the function was called
  async instantiate(ctx) {
  let greeting = { text: 'Instantiate was called!' };
@@ -48,6 +48,8 @@ https://www.hyperledger.org/blog/2018/10/26/hyperledger-fabric-now-supports-ethe
 ### to develop decentralized applications (DApps) using web3.js.
 
 <hr size="6">
+
+# Get quickly up and running with these resources:
 
 ## Demo: [The Blockchain Bean Supply Chain](https://www.ibm.com/thought-leadership/blockchainbean/)
 ## [Prerequisites](https://hyperledger-fabric.readthedocs.io/en/release-1.4/prereqs.html#prerequisites)

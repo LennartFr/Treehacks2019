@@ -50,14 +50,14 @@ Contracts can now be written in languages such as Solidity or Vyper. Along with 
 a new smart contract runtime, Fabric also has a corresponding web3 provider which can be used 
 to develop decentralized applications (DApps) using web3.js.
 
-### [/EVM_Smart_Contracts tutorial](https://github.com/hyperledger/fabric-chaincode-evm/blob/master/examples/EVM_Smart_Contracts.mdz)
+### [EVM_Smart_Contracts tutorial](https://github.com/hyperledger/fabric-chaincode-evm/blob/master/examples/EVM_Smart_Contracts.mdz)
 
 <hr size="6">
 
 ## Demo: [The Blockchain Bean Supply Chain](https://www.ibm.com/thought-leadership/blockchainbean/)
 ## [Prerequisites](https://hyperledger-fabric.readthedocs.io/en/release-1.4/prereqs.html#prerequisites)
-## Exercise 1: [Develop a Node.js smart contract and web app in VSCode for a Global Finance with blockchain use case](https://developer.ibm.com/patterns/global-financing-use-case-for-blockchain/)
-## Exercise 2: [Use IBM Blockchain Platform extension in VSCode to develop a Smart Contract](https://github.com/horeaporutiu/VSCodeTutorialBlockchain#use-ibm-blockchain-platform-extension-in-vscode-to-develop-a-smart-contract)  
-## Exercise 3: [How to quickly connect a Smart Contract to IBM Blockchain Platform Starter Plan using VSCode](https://github.com/horeaporutiu/VSCodeRemoteNetwork#vscoderemotenetwork) 
-## Exercise 4: [Run a commercial paper smart contract with the IBM Blockchain VSCode extension](https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension/)
+## Tutorial 1: [Develop a Node.js smart contract and web app in VSCode for a Global Finance with blockchain use case](https://developer.ibm.com/patterns/global-financing-use-case-for-blockchain/)
+## Tutorial 2: [Use IBM Blockchain Platform extension in VSCode to develop a Smart Contract](https://github.com/horeaporutiu/VSCodeTutorialBlockchain#use-ibm-blockchain-platform-extension-in-vscode-to-develop-a-smart-contract)  
+## Tutorial 3: [How to quickly connect a Smart Contract to IBM Blockchain Platform Starter Plan using VSCode](https://github.com/horeaporutiu/VSCodeRemoteNetwork#vscoderemotenetwork) 
+## Tutorial 4: [Run a commercial paper smart contract with the IBM Blockchain VSCode extension](https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension/)
 ## [IBM Blockchain Platform in the IBM Cloud](https://www.ibm.com/blockchain/platform)

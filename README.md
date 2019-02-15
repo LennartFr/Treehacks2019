@@ -21,7 +21,7 @@
 
 # Step by step sample apps to quickly get up and running 
 
-## Smart Contract in NodeJS.
+## Write Smart Contracts in NodeJS.
 
 ~~~~
  'use strict';

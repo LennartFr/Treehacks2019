@@ -62,4 +62,5 @@ to develop decentralized applications (DApps) using web3.js.
 ## Tutorial 4: [Run a commercial paper smart contract with the IBM Blockchain VSCode extension](https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension/)
 ## [IBM Blockchain Platform in the IBM Cloud](https://console.bluemix.net/catalog/services/blockchain-platform-20)
 
-A new VS Code extension provides smooth integration between smart contract development and network management, and you can now move from development, to test, to production in a single environment. The IBM Blockchain platform meets developers where they are, offering support for smart contracts to be written in JavaScript, Java, and Go languages.
+<font size="8" color="red">
+A new VS Code extension provides smooth integration between smart contract development and network management, and you can now move from development, to test, to production in a single environment. The IBM Blockchain platform meets developers where they are, offering support for smart contracts to be written in JavaScript, Java, and Go languages.</font>

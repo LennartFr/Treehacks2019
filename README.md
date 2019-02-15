@@ -58,4 +58,4 @@ https://www.hyperledger.org/blog/2018/10/26/hyperledger-fabric-now-supports-ethe
 ## Exercise 2: [Use IBM Blockchain Platform extension in VSCode to develop a Smart Contract](https://github.com/horeaporutiu/VSCodeTutorialBlockchain#use-ibm-blockchain-platform-extension-in-vscode-to-develop-a-smart-contract)  
 ## Exercise 3: [How to quickly connect a Smart Contract to IBM Blockchain Platform Starter Plan using VSCode](https://github.com/horeaporutiu/VSCodeRemoteNetwork#vscoderemotenetwork) 
 ## Exercise 4: [Run a commercial paper smart contract with the IBM Blockchain VSCode extension](https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension/)
-## [IBM Blockchain Platform](https://www.ibm.com/blockchain/platform)
+## [IBM Blockchain Platform in the IBM Cloud](https://www.ibm.com/blockchain/platform)

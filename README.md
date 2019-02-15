@@ -10,7 +10,7 @@
 
 ## <a href="https://developer.ibm.com/code-and-response/technologies/blockchain">Code and Response Blockchain Code Patterns</a>
 
-## [ALL IBM Code Patterns for Blockchain](https://developer.ibm.com/patterns/category/blockchain)
+## [All IBM Code Patterns for Blockchain](https://developer.ibm.com/patterns/category/blockchain)
 
 
 ## [Visual Studio Code](https://code.visualstudio.com)

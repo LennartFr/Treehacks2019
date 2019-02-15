@@ -50,7 +50,7 @@ Contracts can now be written in languages such as Solidity or Vyper. Along with 
 a new smart contract runtime, Fabric also has a corresponding web3 provider which can be used 
 to develop decentralized applications (DApps) using web3.js.
 
-### [EVM_Smart_Contracts tutorial](https://github.com/hyperledger/fabric-chaincode-evm/blob/master/examples/EVM_Smart_Contracts.mdz)
+### [EVM_Smart_Contracts tutorial](https://github.com/hyperledger/fabric-chaincode-evm/blob/master/examples/EVM_Smart_Contracts.md)
 
 <hr size="6">
 
@@ -60,6 +60,8 @@ to develop decentralized applications (DApps) using web3.js.
 ## Tutorial 2: [Use IBM Blockchain Platform extension in VSCode to develop a Smart Contract](https://github.com/horeaporutiu/VSCodeTutorialBlockchain#use-ibm-blockchain-platform-extension-in-vscode-to-develop-a-smart-contract)  
 ## Tutorial 3: [How to quickly connect a Smart Contract to IBM Blockchain Platform Starter Plan using VSCode](https://github.com/horeaporutiu/VSCodeRemoteNetwork#vscoderemotenetwork) 
 ## Tutorial 4: [Run a commercial paper smart contract with the IBM Blockchain VSCode extension](https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension/)
+## Tutorial 5: [Deploy Fabric locally with EVM and create a proxy for interacting with a smart contract through a Node.js web app](https://developer.ibm.com/patterns/loyalty-points-fabric-evm/)
+
 ## [IBM Blockchain Platform in the IBM Cloud](https://console.bluemix.net/catalog/services/blockchain-platform-20)
 
 A new VS Code extension provides smooth integration between smart contract development and network management, and you can now move from development, to test, to production in a single environment. The IBM Blockchain platform meets developers where they are, offering support for smart contracts to be written in JavaScript, Java, and Go languages.

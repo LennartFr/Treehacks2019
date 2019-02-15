@@ -51,7 +51,7 @@ https://www.hyperledger.org/blog/2018/10/26/hyperledger-fabric-now-supports-ethe
 
 ## Demo: [The Blockchain Bean Supply Chain](https://www.ibm.com/thought-leadership/blockchainbean/)
 ## [Prerequisites](https://hyperledger-fabric.readthedocs.io/en/release-1.4/prereqs.html#prerequisites)
-## Exercise 1: [Develop a Node.js smart contract and web app for Global Finance with Blockchain](https://developer.ibm.com/patterns/global-financing-use-case-for-blockchain/)
+## Exercise 1: [Create a global finance blockchain application with IBM Blockchain Platform Extension for VS Code](https://developer.ibm.com/patterns/global-financing-use-case-for-blockchain/)
 ## Exercise 2: [Run a commercial paper smart contract with the IBM Blockchain VSCode extension](https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension/)
 ## Exercise 3: [Use IBM Blockchain Platform extension in VSCode to develop a Smart Contract](https://github.com/horeaporutiu/VSCodeTutorialBlockchain#use-ibm-blockchain-platform-extension-in-vscode-to-develop-a-smart-contract)  
 

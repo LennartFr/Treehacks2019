@@ -50,6 +50,8 @@ Contracts can now be written in languages such as Solidity or Vyper. Along with 
 a new smart contract runtime, Fabric also has a corresponding web3 provider which can be used 
 to develop decentralized applications (DApps) using web3.js.
 
+### [/EVM_Smart_Contracts tutorial](https://github.com/hyperledger/fabric-chaincode-evm/blob/master/examples/EVM_Smart_Contracts.mdz)
+
 <hr size="6">
 
 ## Demo: [The Blockchain Bean Supply Chain](https://www.ibm.com/thought-leadership/blockchainbean/)

@@ -6,9 +6,9 @@
 
 ## <a href="https://developer.ibm.com/code-and-response/">Code and Response initiative</a>
 
-## [IBM Bockchain use cases](https://www.ibm.com/blockchain/use-cases/)
+## [IBM Bockchain Use Cases](https://www.ibm.com/blockchain/use-cases/)
 
-## <a href="https://developer.ibm.com/code-and-response/technologies/blockchain">Code and Response Blockchain code patterns</a>
+## <a href="https://developer.ibm.com/code-and-response/technologies/blockchain">Code and Response Blockchain Code Patterns</a>
 
 ## [ALL IBM Code Patterns for Blockchain](https://developer.ibm.com/patterns/category/blockchain)
 

@@ -6,6 +6,8 @@
 
 ## <a href="https://developer.ibm.com/code-and-response/">Code and Response initiative</a>
 
+# Reuse Use Cases and Code Patterns:
+
 ## [IBM Bockchain Use Cases](https://www.ibm.com/blockchain/use-cases/)
 
 ## <a href="https://developer.ibm.com/code-and-response/technologies/blockchain">Blockchain Code Patterns for Code and Response</a>
